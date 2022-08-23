@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 <a href="https://www.youtube.com/channel/UC9BqrLNWNctCFM2lnrTitHw">
 <img src="https://img.shields.io/badge/-YouTube-%23FF0000" alt="YouTube" /></a> 
-<a href="https://www.instagram.com/rajonthestreet/">
+<a href="https://www.instagram.com/rajsrishanker/">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 </p>
 
