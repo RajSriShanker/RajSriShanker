@@ -13,5 +13,5 @@
 
 * 📱 Software engineer specializing in Automation & XR/AR projects
 * 🎮 Passionate game developer who loves collaborating on projects
-* 🧑‍💼 Currently working at [Carbon Counts Tech](https://www.carboncounts.tech/) as a QA Test Engineer
+* 💼 Currently working at [Carbon Counts Tech](https://www.carboncounts.tech/) as a QA Test Engineer
 * 😁 Nice to meet you!
