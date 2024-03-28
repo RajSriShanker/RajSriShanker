@@ -11,12 +11,12 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a> 
 </p>
 
-<ul>
-<li>💻 Software Engineer creating amazing projects like <a href="https://github.com/RajSriShanker/RajSriShanker_ARBusinessCard">XR/AR</a></li><br>
-<li>⚙️ Specializing in <a href="https://github.com/RajSriShanker/Unity-Automation">Automation Testing</a>, Build Deployment and Release Management</li><br>
-<li>🎮 Professional <a href="https://gamedevraj.itch.io/">Game Developer</a> with multi-platform releases</li><br>
-<li>😁 Nice to meet you!</li><br>
-</ul> 
+<div align="center">
+<p>💻 Software Engineer creating amazing projects like <a href="https://github.com/RajSriShanker/RajSriShanker_ARBusinessCard">XR/AR</a></p><br>
+<p>⚙️ Specializing in <a href="https://github.com/RajSriShanker/Unity-Automation">Automation Testing</a>, Build Deployment and Release Management</p><br>
+<p>🎮 Professional <a href="https://gamedevraj.itch.io/">Game Developer</a> with multi-platform releases</p><br>
+<p>😁 Nice to meet you!</p><br>
+</div> 
 
 
 <h2 align="center"> Tech Knowledge </h2>
