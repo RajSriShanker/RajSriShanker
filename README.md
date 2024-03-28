@@ -12,9 +12,9 @@
 </p>
 
 <ul>
-<li>💻 Software Engineer creating amazing projects like XR/AR</li><br>
-<li>⚙️ Specializing in Automation Testing, Build Deployment and Release Management</li><br>
-<li>🎮 Professional Game Developer with multi-platform releases</li><br>
+<li>💻 Software Engineer creating amazing projects like <a href="https://github.com/RajSriShanker/RajSriShanker_ARBusinessCard">XR/AR</a></li><br>
+<li>⚙️ Specializing in <a href="https://github.com/RajSriShanker/Unity-Automation">Automation Testing</a>, Build Deployment and Release Management</li><br>
+<li>🎮 Professional <a href="https://gamedevraj.itch.io/">Game Developer</a> with multi-platform releases</li><br>
 <li>😁 Nice to meet you!</li><br>
 </ul> 
 
