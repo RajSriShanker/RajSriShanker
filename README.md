@@ -15,7 +15,7 @@
 <p>💻 Software Engineer creating amazing projects like <a href="https://github.com/RajSriShanker/RajSriShanker_ARBusinessCard">XR/AR</a></p><br>
 <p>⚙️ Specializing in <a href="https://github.com/RajSriShanker/Unity-Automation">Automation Testing</a>, Build Deployment and Release Management</p><br>
 <p>🎮 Professional <a href="https://gamedevraj.itch.io/">Game Developer</a> with multi-platform releases</p><br>
-<p>😁 Nice to meet you!</p>
+<p>😁 Nice to meet you!</p><br>
 </div> 
 
 
