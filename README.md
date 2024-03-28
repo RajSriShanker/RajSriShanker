@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-📱 Software Engineer creating amazing projects like XR/AR<br>
+💻 Software Engineer creating amazing projects like XR/AR<br>
 ⚙️ Specializing in Automation Testing, Build Deployment and Release Management<br>
 🎮 Professional Game Developer with multi-platform releases<br>
 😁 Nice to meet you!<br>
